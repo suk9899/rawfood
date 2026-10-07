@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ORD-20261007-9429",
+    "customerName": "한상숙",
+    "phone": "01031309899",
+    "address": "충북 충주시 호암수청1로 60",
+    "detailAddress": "",
+    "memo": "문 앞에 놓아주세요",
+    "paymentMethod": "kakao",
+    "productName": "하루한잔 자연담은 50곡 생식 (30포/1개월분)",
+    "quantity": 1,
+    "totalPrice": 42000,
+    "status": "결제확인",
+    "createdAt": "2026-10-07T05:15:53.136Z",
+    "updatedAt": "2026-10-07T05:15:53.136Z"
+  },
+  {
+    "id": "ORD-20261007-6646",
+    "customerName": "스테판",
+    "phone": "010-1234-5678",
+    "address": "서울시 서초구 자연대로 50",
+    "detailAddress": "302호",
+    "memo": "문 앞에 놓아주세요",
+    "paymentMethod": "card",
+    "productName": "하루한잔 자연담은 50곡 생식 (30포/1개월분)",
+    "quantity": 1,
+    "totalPrice": 42000,
+    "status": "배송완료",
+    "createdAt": "2026-10-07T05:14:19.456Z",
+    "updatedAt": "2026-10-07T05:23:05.893Z"
+  },
+  {
+    "id": "ORD-20261007-7960",
+    "customerName": "김철수",
+    "phone": "010-9876-5432",
+    "address": "서울시 송파구 올림픽로 300",
+    "detailAddress": "101동 502호",
+    "memo": "경비실에 맡겨주세요",
+    "paymentMethod": "transfer",
+    "productName": "하루한잔 자연담은 50곡 생식 (30포/1개월분)",
+    "quantity": 2,
+    "totalPrice": 84000,
+    "status": "입금대기",
+    "createdAt": "2026-10-07T03:35:01.895Z",
+    "updatedAt": "2026-10-07T03:35:01.895Z"
+  }
+]
